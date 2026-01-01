@@ -2,9 +2,7 @@
 
 ## Overview
 
-Welcome to the Fast Mute app for Android!
-
-This is currently a closed-source app.
+Fast Mute is a closed-source app.
 
 It was created on [Google's open-source Flutter framework][flutter], and makes use of a handful of 3rd party open-source libraries.
 
