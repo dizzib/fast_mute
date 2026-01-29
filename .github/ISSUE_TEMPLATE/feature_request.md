@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest a new feature or idea for this project
-title: 'FR: '
+title: ''
 labels: 'enhancement'
 assignees: 'dizzib'
 
